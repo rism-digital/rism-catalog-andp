@@ -6,7 +6,7 @@ Edited by Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia and Leonar
 
 [https://catalogs.rism.online/AndP](https://catalogs.rism.online/AndP)
 
-
+---
 
 [Origin and context](#Context)  
 

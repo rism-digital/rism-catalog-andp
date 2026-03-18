@@ -6,7 +6,7 @@ A cura di Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia e Leonardo
 
 [https://catalogs.rism.online/AndP](https://catalogs.rism.online/AndP)
 
-
+---
 
 [Origine e contesto](#Context)  
 
