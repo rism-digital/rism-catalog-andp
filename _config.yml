@@ -1,12 +1,12 @@
 title: 
- en: Catalogue of the Works of Francesco Pollini (AndP)
+ en: Catalog of the Works of Francesco Pollini (AndP)
  it: Catalogo delle opere di Francesco Pollini (AndP)
 title_mobile: 
   en: Works of F. Pollini (AndP)
   it: Opere di F. Pollini (AndP)
 
 email: info@rism.digital
-baseurl: "/rism-catalogue-andp"
+baseurl: "/rism-catalog-andp"
 
 sponsors:
   - url: https://fr.wikipedia.org/wiki/Licence_Creative_Commons
@@ -20,6 +20,6 @@ lang_from_path: false
 sass:
   sourcemap: never
 
-theme: rism-catalogue-theme
+theme: rism-catalog-theme
 
-rism_catalogue: "publications/50007446"
+rism_catalog: "publications/50007446"

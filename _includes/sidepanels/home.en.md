@@ -1,4 +1,4 @@
-# Francesco Pollini Catalogue
+# Francesco Pollini Catalog
 
 Edited by Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia and Leonardo Miucci. Bern, HKB/RISM Digital Center, 2025.
 
@@ -12,7 +12,7 @@ Edited by Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia and Leonar
 
 [Biographical note](#Bio)
 
-[Catalogue structure](#structure)
+[Catalog structure](#structure)
 
 [A. Piano works](#sectionA)
 
